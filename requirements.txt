@@ -1,6 +1,6 @@
 flask
 transformers
-torch
+torch --index-url https://download.pytorch.org/whl/cpu
 openai-whisper
 requests
 gunicorn
