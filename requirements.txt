@@ -1,0 +1,6 @@
+flask
+transformers
+torch
+openai-whisper
+requests
+gunicorn
